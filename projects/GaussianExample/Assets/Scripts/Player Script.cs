@@ -1,3 +1,6 @@
+// Atanas Ilinov
+// player movement, camera and player rotation and interactions
+
 using UnityEngine;
 using System;
 using Vector2 = UnityEngine.Vector2;
